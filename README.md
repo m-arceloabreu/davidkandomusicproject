@@ -1,8 +1,10 @@
-## Learning Goals
+
+# Learning Goals
+
 This project was designed by David: https://github.com/15Dkatz/.  Who I had the oportunity to learn with in his React/Next.js course in Udemy.
 I had never worked with Next.Js before, and with this course i could discover more about this amazing tecnology. 
 
-# Some topics that i have passed through:
+## Some topics that i have passed through:
 
 1. Link to pages with Next/Link | Grid Item
 2. Styles with Tailwind CSS

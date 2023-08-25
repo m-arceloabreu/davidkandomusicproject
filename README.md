@@ -1,3 +1,27 @@
+##Learning Goals
+This project was designed by David: https://github.com/15Dkatz/.  Who I had the oportunity to learn with in his React/Next.js course in Udemy.
+I had never worked with Next.Js before, and with this course i could discover more about this amazing tecnology. 
+
+#Some topics that i have passed through:
+
+1. Link to pages with Next/Link | Grid Item
+2. Styles with Tailwind CSS
+3. Next.Js Page Setup
+4. Next.Js fonts and responsive design
+5. Next.Js Client Components
+6. Next.Js Server Actions
+7. Global Components
+8. Next.Js Dynamic Segments and generateStaticParams
+9. Next.Js generateMetaData
+10. React Suspense and React Lazy
+11. Next.Js not-found and Route Groups
+12. Nested Dynamic Segments
+13. Next.Js useSelectedLayoutSegments
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
